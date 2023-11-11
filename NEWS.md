@@ -1,3 +1,3 @@
 # sumNA 0.1.0
 
-* Initial CRAN submission.
+* The package is initial version in development.
